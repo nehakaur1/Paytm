@@ -17,7 +17,7 @@
 .img1{
     height: 70px;
     width:180px;
-    background-image:url("/img/paytmlogo1.jpg");
+    background-image:url("img/paytmlogo1.jpg");
     background-size:cover;
     margin-bottom: 60px;   
 }
